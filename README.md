@@ -1,3 +1,4 @@
+PLEASE IGNORE PYTHON FOLDER
 # 🎨 Assignment: CSS Basics & The Box Model
 
 ## Overview
